@@ -16,7 +16,8 @@ import FluentTestModels
 open class FluentAppTestCase: FluentTestCase{
 	let sqlite: SQLiteDatabase = try! SQLiteDatabase(storage: .memory)
 	open var autoSeed: Bool { return true }
-	open override func register(_ services: inout Services) throws {
+
+    open override func register(_ services: inout Services) throws {
 		try super.register(&services)
 		try services.register(FluentSQLiteProvider())
 		services.register(sqlite)

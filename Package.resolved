@@ -78,8 +78,8 @@
         "repositoryURL": "https://github.com/Appsaurus/Fakery",
         "state": {
           "branch": null,
-          "revision": "d2f4dd5e362718a218df26bfcb2a875ba1633b21",
-          "version": "3.4.2"
+          "revision": "19637d073bceb2d2b7133d9e2c6f04a982fe5e8a",
+          "version": "3.4.3"
         }
       },
       {
@@ -114,8 +114,8 @@
         "repositoryURL": "https://github.com/Appsaurus/FluentSeeder",
         "state": {
           "branch": null,
-          "revision": "3031b37ea1aafc811b45aa3c0b57a8b99be1bf92",
-          "version": "0.1.2"
+          "revision": "985b837815825232d8eb26501ff850ad7d531dc5",
+          "version": "0.1.3"
         }
       },
       {
@@ -168,8 +168,8 @@
         "repositoryURL": "https://github.com/Appsaurus/RandomFactory",
         "state": {
           "branch": null,
-          "revision": "be759128472b1880ea35cd0bc98da8afeb0466be",
-          "version": "1.0.1"
+          "revision": "07bd6664d771ef536c295d18bf3a4178aa5c3163",
+          "version": "1.0.2"
         }
       },
       {
